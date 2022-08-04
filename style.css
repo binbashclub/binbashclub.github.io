@@ -27,7 +27,10 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
-
 .board img {
     width: 200px;
+}
+svg {
+    width: 50px;
+    fill: #6970bd;
 }
